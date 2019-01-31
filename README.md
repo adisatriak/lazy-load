@@ -7,5 +7,5 @@ $ yarn install
 
 ### Run project
 ```shell
-$ gulp
+$ yarn start
 ```
